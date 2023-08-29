@@ -1,0 +1,157 @@
+{
+    "personas": [
+        {
+            "id": 1,
+            "name": "Sophia Miller",
+            "age": 28,
+            "image": "./assets/sophia.jpg",
+            "description": "Sophia is a tech-savvy young professional in her late twenties. She's always on the lookout for the latest gadgets and accessories. She prefers products with modern designs and advanced features, and values detailed specifications and reviews before making a purchase."
+        },
+        {
+            "id": 2,
+            "name": "John Johnson",
+            "age": 42,
+            "image": "./assets/john.jpg",
+            "description": "John is a family-oriented middle-aged man in his forties. He often shops online for household items, home improvement tools, and family-friendly products. He appreciates clear product descriptions, affordable prices, and customer ratings to ensure quality and value for money."
+        },
+        {
+            "id": 3,
+            "name": "Emily Garcia",
+            "age": 22,
+            "image": "./assets/emily.jpg",
+            "description": "Emily is a college student in her early twenties who loves fashion and beauty products. She follows the latest trends and enjoys discovering unique and stylish items. Personalized product recommendations and detailed usage instructions resonate well with her when shopping online."
+        },
+        {
+            "id": 4,
+            "name": "Robert Lee",
+            "age": 35,
+            "image": "./assets/robert.jpg",
+            "description": "Robert is a fitness enthusiast in his mid-thirties who frequently shops for sports equipment, nutritional supplements, and activewear. He values products that cater to his specific fitness goals and appreciates detailed information about materials, sizing, and performance benefits."
+        },
+        {
+            "id": 5,
+            "name": "Linda Martinez",
+            "age": 50,
+            "image": "./assets/linda.jpg",
+            "description": "Linda is a retiree in her early fifties who enjoys gardening and DIY projects. She looks for durable tools, gardening supplies, and easy-to-follow guides. Linda appreciates user-friendly interfaces, simple product explanations, and helpful tips for making the most of her purchases."
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Table lamp TORO x AMBER",
+            "description": "This table lamp has a timeless retro minimal design that disperses a soft amber glow which almost looks like a sunset. A mushroom shaped lamp that's perfect as a bedside lamp or eye catcher in any living room. Our Amber colored material is produced using locally sources and recycled plastic, which makes it an excellent sustainable choice to decorate you home with. Each Lamp is designed, 3D printed and hand assembled at the 3Deco Studio in Utrecht, the Netherlands.",
+            "price": 56,
+            "image": "https://i.etsystatic.com/28300028/r/il/fc7718/5065546952/il_794xN.5065546952_1x1l.jpg",
+            "personalizations": [
+                {
+                    "persona_id": 1,
+                    "personalized_description": "Introducing the \"Table lamp TORO x AMBER\" – a cutting-edge blend of timeless design and modern technology. Crafted for those who appreciate innovation, this lamp emanates a soft amber glow reminiscent of a sunset. Its sleek mushroom shape adds a touch of contemporary elegance, making it an ideal choice for your bedside or as a captivating living room centerpiece.\n\nYou'll be delighted to know that the Amber colored material is not only visually stunning but also environmentally conscious. Crafted from locally sourced and recycled plastic, it's a sustainable way to adorn your home with beauty. As someone who values specifications and reviews, you'll appreciate knowing that each lamp is meticulously designed, 3D printed, and hand assembled at the esteemed 3Deco Studio in Utrecht, the Netherlands.\n\nElevate your space with the perfect fusion of design and technology – the \"Table lamp TORO x AMBER.\""
+                },
+                {
+                    "persona_id": 2,
+                    "personalized_description": "Meet the \"Table lamp TORO x AMBER,\" an illuminating addition to your home that embodies both style and functionality. Designed with the family in mind, its timeless retro minimalism is sure to complement your space, whether it's your bedside or a living room gathering spot.\n\nThe soft amber glow, akin to a serene sunset, creates an inviting atmosphere. What's even better? The lamp's material is crafted from locally sourced and recycled plastic, making it a sustainable choice that aligns with your values. With an eye for quality and affordability, you'll appreciate that each lamp is meticulously crafted and hand assembled at the 3Deco Studio in Utrecht, the Netherlands.\n\nIlluminate your family's space with warmth and charm – the \"Table lamp TORO x AMBER\" is here to make your house feel like home."
+                },
+                {
+                    "persona_id": 3,
+                    "personalized_description": "Elevate your living space with the enchanting \"Table lamp TORO x AMBER.\" This lamp is more than just a light source; it's a statement piece that infuses a touch of style and elegance. Its retro minimal design casts a soft amber glow, evoking the magic of a sunset right in your room.\n\nAs a fashion-forward college student who appreciates uniqueness, you'll love knowing that the lamp's Amber colored material is not only visually captivating but also produced sustainably using locally sourced and recycled plastic. The lamp is designed, 3D printed, and hand assembled at the artistic 3Deco Studio in Utrecht, the Netherlands – a true masterpiece that aligns with your passion for aesthetics.\n\nIlluminate your space with a touch of sunset-inspired charm – the \"Table lamp TORO x AMBER\" is your perfect companion in creating a stylish and welcoming atmosphere."
+                },
+                {
+                    "persona_id": 4,
+                    "personalized_description": "Introducing the \"Table lamp TORO x AMBER\" – a lamp that perfectly aligns with your active lifestyle and discerning taste. Its minimalist design exudes a timeless appeal, while the soft amber glow adds a touch of serenity to your space, reminiscent of a calming sunset after a good workout.\n\nWhat sets this lamp apart is its commitment to sustainability. Crafted from locally sourced and recycled plastic, it's a testament to your values as a fitness enthusiast who appreciates quality materials. With your keen eye for details, you'll be pleased to learn that each lamp is designed, 3D printed, and hand assembled at the 3Deco Studio in Utrecht, the Netherlands.\n\nIlluminate your space with a lamp that understands your lifestyle – the \"Table lamp TORO x AMBER\" is here to complement your dedication to fitness and well-being."
+                },
+                {
+                    "persona_id": 5,
+                    "personalized_description": "Discover the charm of the \"Table lamp TORO x AMBER,\" an elegant addition to your home that exudes warmth and simplicity. Its retro minimal design casts a soft amber glow reminiscent of a tranquil sunset, setting the perfect mood for your cozy evenings.\n\nCrafted with your love for gardening and DIY projects in mind, this lamp's Amber colored material is both visually appealing and environmentally responsible, created using locally sourced and recycled plastic. Designed, 3D printed, and hand assembled at the 3Deco Studio in Utrecht, the Netherlands, it embodies the craftsmanship and durability you seek in your tools.\n\nBrighten up your space with a lamp that understands your passion for creativity and practicality – the \"Table lamp TORO x AMBER\" is ready to accompany you on your gardening and DIY journeys."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "De'Longhi Magnifica S",
+            "description": "RESH GROUND COFFE: The espresso grinder grinds your coffee only at the time of preparation, and only the amount required, to achieve a perfect result, cup after cup\nEasy to use: with a simple touch, make all your favourite drinks directly on the control panel\nWide choice of recipes: Enjoy 2 coffee recipes (espresso, lungo) in direct access and make all your milk drinks thanks to the steam nozzle. Brewing 2 coffees at the same time\nPersonalisation: Personalise and record your drinks according to your taste (intensity, length in cup and temperature)\nFrom bean to cup: the espresso grinder opens the doors of the coffee world. Choose your coffee beans from your roaster and discover new terroirs and aromas.",
+            "price": 339.99,
+            "image": "https://www.123comparer.be/photoProd/zoom/2897/machine-agrave-expresso-delonghi-ecam-22-140-b-compacte-72070329.jpg",
+            "personalizations": [
+                {
+                    "persona_id": 1,
+                    "personalized_description": "Sophia, as a tech-savvy young professional, we know you're always seeking the next level of innovation. The De'Longhi Magnifica S is here to transform your coffee rituals into something extraordinary.\n\nSay goodbye to pre-ground coffee and embrace freshness. With its espresso grinder, your coffee beans are ground just before brewing, ensuring each cup is a masterpiece of flavor. The advanced control panel offers a touch of modernity, allowing you to craft your favorite drinks with a simple touch.\n\nBut it's not just about simplicity – it's about choice. Access your beloved coffee recipes effortlessly. Whether it's a bold espresso or a smooth lungo, you're in control. And for your busy mornings or shared moments, this machine can brew two coffees simultaneously.\n\nPersonalization is key, Sophia. Tailor your drinks to your taste – adjust the intensity, choose the perfect cup length, and even set the temperature just right. It's your coffee, your way.\n\nFrom bean to cup, immerse yourself in the coffee journey. Roaster beans become a canvas for you to explore new flavors, a terroir adventure that matches your love for technology and discovery."
+                },
+                {
+                    "persona_id": 2,
+                    "personalized_description": "John, as a family-oriented individual, we understand that quality and value matter to you. The De'Longhi Magnifica S brings the essence of family gatherings into your cup, one perfect brew at a time.\n\nLet's talk about convenience – the espresso grinder ensures your coffee is freshly ground when needed, guaranteeing each cup's authenticity. With an intuitive control panel, making your favorite drinks becomes a breeze.\n\nBut the beauty lies in its versatility. Enjoy not just one, but two coffee recipes with ease. And for those cherished family mornings, brewing two coffees simultaneously is a delight.\n\nPersonalization is at your fingertips, John. Tailor the intensity, adjust the cup size, and set the temperature to your liking. It's your personal coffee corner, built to match your preferences.\n\nFrom bean to cup, explore the world of flavors. With every sip, you're embracing quality and comfort, two things that define your approach to shopping."
+                },
+                {
+                    "persona_id": 3,
+                    "personalized_description": "Emily, your love for fashion extends to every aspect of your life, including your coffee moments. The De'Longhi Magnifica S is here to indulge your senses and elevate your coffee routine.\n\nStep into a world of freshness with the espresso grinder. Your coffee is ground right before brewing, preserving every nuance of flavor. The stylish control panel becomes your canvas to create your coffee masterpiece.\n\nBut it doesn't end there. Access your coffee passions with ease. From the bold espresso to the smooth lungo, it's all within your reach. And for those creative moments, brewing two coffees at once is a breeze.\n\nPersonalization awaits you, Emily. Craft your drink to match your taste – adjust the intensity, length, and temperature. It's like curating your coffee style, just like you do with your fashion choices.\n\nFrom bean to cup, you're embarking on a journey of taste exploration. Roaster beans become your runway for discovering new flavors, a stylish adventure tailored for your unique taste."
+                },
+                {
+                    "persona_id": 4,
+                    "personalized_description": "Robert, as a fitness enthusiast, precision and performance are your allies. The De'Longhi Magnifica S understands your need for excellence, even in your coffee rituals.\n\nExperience coffee freshness like never before with the espresso grinder. Your beans are ground just before brewing, delivering a cup of vitality every time. The streamlined control panel is your command center for creating the perfect coffee blend.\n\nBut let's talk about versatility. From espresso to lungo, it's all at your fingertips. And for your active lifestyle, brewing two coffees is a match for your energy levels.\n\nPersonalization is the name of the game, Robert. Customize your coffee intensity, adjust the cup size, and set the temperature to match your drive. It's coffee that resonates with your dedication.\n\nFrom bean to cup, you're delving into a world of flavors that matches your quest for fitness excellence. Roaster beans become your performance fuel, enhancing your daily routines with a touch of vitality."
+                },
+                {
+                    "persona_id": 5,
+                    "personalized_description": "Linda, your love for gardening and DIY projects extends to your coffee journey. The De'Longhi Magnifica S is here to accompany your creative endeavors with each comforting sip.\n\nEmbrace the essence of freshness with the espresso grinder. Your coffee beans transform into aromatic magic, grounding your coffee rituals in nature. The intuitive control panel becomes your tool for crafting the perfect cup.\n\nBut it's not just about coffee – it's about the experience. Enjoy espresso and lungo with a touch of simplicity. And for your moments of reflection, brewing two coffees simultaneously is a peaceful indulgence.\n\nPersonalization is your sanctuary, Linda. Adjust the intensity, choose the cup size, and set the temperature just right. It's coffee that resonates with your down-to-earth spirit.\n\nFrom bean to cup, you're exploring a world of flavors that align with your DIY spirit. Roaster beans become your artistic medium, painting your mornings with comfort and delight."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Book - Can't Hurt Me: Master Your Mind and Defy the Odds",
+            "description": "New York Times Best Seller. Over 4 million copies sold. For David Goggins, childhood was a nightmare -- poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him \"The Fittest (Real) Man in America\". In Can't Hurt Me, he shares his astonishing life story and reveals that most of us tap into only 40% of our capabilities. Goggins calls this The 40% Rule, and his story illuminates a path that anyone can follow to push past pain, demolish fear, and reach their full potential.",
+            "price": 19.49,
+            "image": "https://media.s-bol.com/7DkA0kAkO491/k537znv/550x823.jpg",
+            "personalizations": [
+                {
+                    "persona_id": 1,
+                    "personalized_description": "Elevate Your Mind with \"Can't Hurt Me\"\n\nAttention, fellow tech aficionados! Dive into the pages of \"Can't Hurt Me,\" a masterpiece that transcends the boundaries of ordinary thinking. Embark on a journey that resonates with your pursuit of pushing boundaries, just like you explore the latest advancements.\n\nDavid Goggins' incredible transformation story isn't unlike your own quest for excellence. As you devour this New York Times Best Seller, you'll unlock a roadmap to tap into the full spectrum of your capabilities, echoing the high-performance technology you seek in gadgets."
+                },
+                {
+                    "persona_id": 2,
+                    "personalized_description": "Rediscover Your Inner Strength with \"Can't Hurt Me\"\n\nIntroducing \"Can't Hurt Me\" – a compelling narrative that mirrors your own journey as a devoted family man. John, as you navigate through life's challenges, David Goggins' tale is an inspiring testament to the power of resilience and determination.\n\nExplore the depths of human potential in this bestseller, just as you prioritize quality and value in every purchase for your household. Much like your dedication to your family, Goggins' story is a beacon of hope for all of us, resonating with your quest for a better life."
+                },
+                {
+                    "persona_id": 3,
+                    "personalized_description": "Unleash Your Inner Warrior with \"Can't Hurt Me\"\n\nHey there, fashion and trend enthusiast! \"Can't Hurt Me\" isn't just a book; it's your ticket to unleashing your full potential. Just like your love for unique and stylish items, this New York Times Best Seller takes you on a journey of self-discovery that aligns with your desire for self-expression.\n\nAs you immerse yourself in Goggins' captivating story, you'll find the inspiration to push beyond limits, much like your dedication to staying ahead of the curve. Get ready to conquer your goals with the same passion you bring to your fashion choices."
+                },
+                {
+                    "persona_id": 4,
+                    "personalized_description": "Dominate Your Limits with \"Can't Hurt Me\"\n\nCalling all fitness warriors! \"Can't Hurt Me\" is your ultimate guide to breaking through barriers and reaching new heights. Just as you strive for peak performance, David Goggins' story is a testament to the extraordinary capabilities of the human body and mind.\n\nDelve into the pages of this bestseller, much like you meticulously research sports equipment and nutritional supplements. Goggins' journey mirrors your quest for excellence in the fitness world, offering insights that align perfectly with your pursuit of fitness greatness."
+                },
+                {
+                    "persona_id": 5,
+                    "personalized_description": "Nurture Your Resilience with \"Can't Hurt Me\"\n\nAttention, green thumbs and DIY enthusiasts! \"Can't Hurt Me\" is your companion on a journey of growth and transformation, much like your dedication to nurturing gardens and embarking on DIY projects. As you read Goggins' inspiring story, you'll find echoes of your passion for cultivating beauty from the ground up.\n\nJust as you seek user-friendly tools and guides for your projects, this New York Times Best Seller offers an accessible path to realizing your potential. Much like the satisfaction you find in a blossoming garden, Goggins' journey is a testament to the power of cultivating strength and resilience."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sol de Janeiro - Bum Cream",
+            "description": "It is a fast-absorbing body cream. Helps firm and smooth the appearance of skin. Shaving or hair removal. Leaves skin delicately scented",
+            "price": 29.50,
+            "image": "https://m.media-amazon.com/images/I/61ino6WZGsL._AC_SX679_.jpg",
+            "personalizations": [
+                {
+                    "persona_id": 1,
+                    "personalized_description": "Introducing the Sol de Janeiro - Bum Cream, a must-have addition to your skincare routine. This fast-absorbing body cream is designed for individuals who appreciate modern solutions that deliver results. Its advanced formula not only helps firm and smooth the appearance of your skin but also caters to your fast-paced lifestyle. Whether it's after a session of shaving or hair removal, this cream has you covered. Plus, the delicate scent is the perfect finishing touch. Dive into detailed specifications and reviews – this cream aligns seamlessly with your tech-savvy preferences."
+                },
+                {
+                    "persona_id": 2,
+                    "personalized_description": "Discover the Sol de Janeiro - Bum Cream, a practical addition to your family's essentials. This easy-to-understand body cream is all about effectiveness and value for money. With its fast-absorbing formula, it helps firm and smooth skin after shaving or hair removal. The subtle scent is a bonus. Rest assured, this cream meets your standards for clear product descriptions and comes with customer ratings to ensure it's worth every penny. Elevate your online shopping experience with quality and affordability."
+                },
+                {
+                    "persona_id": 3,
+                    "personalized_description": "Elevate your skincare game with the Sol de Janeiro - Bum Cream. This isn't just a cream – it's a fashion statement that resonates with your style sensibilities. Ideal for someone who thrives on the latest trends, this fast-absorbing body cream not only firms and smooths your skin but also lets you enjoy a delicately scented experience. Picture yourself applying it after shaving or hair removal, adding a touch of luxury to your routine. Detailed usage instructions are your guide to achieving flawless skin that matches your fashion-forward choices."
+                },
+                {
+                    "persona_id": 4,
+                    "personalized_description": "Attention all fitness enthusiasts! Meet the Sol de Janeiro - Bum Cream, your new partner in achieving impeccable skin. Crafted for individuals who demand more from their products, this body cream is your go-to after intense workouts or shaving sessions. It's not just about appearance – this cream helps firm and smooth your skin, aligning with your fitness goals. Dive into detailed information about materials and benefits. Your mid-thirties lifestyle deserves a skincare solution that keeps up with your performance demands."
+                },
+                {
+                    "persona_id": 5,
+                    "personalized_description": "Introducing the Sol de Janeiro - Bum Cream, a delightful addition to your gardening and DIY projects. This cream is more than skincare – it's a tool in your toolbox, ready to pamper your skin after a day of hard work. The fast-absorbing formula helps firm and smooth your skin, offering a soothing touch after outdoor endeavors or hair removal. And don't forget the delicate scent – a small luxury in your busy routine. Enjoy a product that respects your gardening journey with its user-friendly approach and simple explanations."
+                }
+            ]
+        }
+    ]
+}
