@@ -72,8 +72,8 @@ function App() {
   return (
     <div className="container sm:mx-auto p-6 max-w-5xl">
       <div className="text-center">
-        <h1 className="text-4xl font-bold">
-          Generative AI personalized product description
+        <h1 className="text-4xl font-bold text-primary">
+          Generative AI - Personalized Product Description
         </h1>
       </div>
 
