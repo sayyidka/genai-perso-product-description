@@ -127,7 +127,7 @@ function App() {
           </div>
 
           {/* Customer info */}
-          <div className="card bg-base-100 shadow-xl bg-primary text-white mt-5 md:w-1/2 md:ml-5 flex items-center justify-center">
+          <div className="gradient-card card bg-primary bg-base-100 shadow-xl text-white mt-5 md:w-1/2 md:ml-5 flex items-center justify-center">
             <div className="pt-5">
               <img src={selectedCustomerId === 0 ? avatars : selectedCustomer.image} className="object-contain h-60 w-96" alt="Customer" />
             </div>
@@ -156,7 +156,7 @@ function App() {
         </div>
 
         {/* Personalized product description */}
-        <div className="card bg-primary text-white mt-5">
+        <div className="gradient-card card bg-primary text-white mt-5">
           <div className="card-body">
             <h2 className="card-title">
               <img src="./assets/star-wh.png" className="w-6 h-6" />
