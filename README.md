@@ -1,8 +1,17 @@
-# React + Vite
+# Personalized Ecommerce Product Descriptions App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Personalized Ecommerce Product Descriptions App**! This static app demonstrates the power of generative AI in the ecommerce realm, providing personalized product descriptions for various customer personas.
 
-Currently, two official plugins are available:
+Check out the app in action [here](https://genai-perso-product-description.vercel.app/) and transform the way you present products to your customers!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+1. Clone the repository to your local machine.
+
+2. Install the required dependencies by running `npm install` in the terminal.
+
+3. Run the app with `npm run dev` and access the generated personalized descriptions.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
