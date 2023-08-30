@@ -2,7 +2,7 @@
 
 Welcome to the **Personalized Ecommerce Product Descriptions App**! This static app demonstrates the power of generative AI in the ecommerce realm, providing personalized product descriptions for various customer personas.
 
-Check out the app in action [here](https://genai-perso-product-description.vercel.app/) and transform the way you present products to your customers!
+Check out the app in action [here](https://genai-perso-product-description.vercel.app/)
 
 ## Getting Started
 
